@@ -12,19 +12,19 @@ A boilerplate for DDD, CQRS, Event Sourcing applications using Symfony as framew
 
 ## Documentation
 
-[Buses](https://github.com/jorge07/symfony-5-es-cqrs-boilerplate/tree/master/doc/GetStarted/Buses.md)
+[Buses](https://github.com/jeanmarie110/Event-Sourcing-and-CQRS/tree/master/doc/GetStarted/Buses.md)
 
-[Creating an Application Use Case](https://github.com/jorge07/symfony-5-es-cqrs-boilerplate/tree/master/doc/GetStarted/UseCases.md)
+[Creating an Application Use Case](https://github.com/jeanmarie110/Event-Sourcing-and-CQRS/tree/master/doc/GetStarted/UseCases.md)
 
-[Adding Projections](https://github.com/jorge07/symfony-5-es-cqrs-boilerplate/tree/master/doc/GetStarted/Projections.md)
+[Adding Projections](https://github.com/jeanmarie110/Event-Sourcing-and-CQRS/tree/master/doc/GetStarted/Projections.md)
 
-[Async executions](https://github.com/jorge07/symfony-5-es-cqrs-boilerplate/tree/master/doc/GetStarted/Async.md)
+[Async executions](https://github.com/jeanmarie110/Event-Sourcing-and-CQRS/tree/master/doc/GetStarted/Async.md)
 
-[UI workflow](https://github.com/jorge07/symfony-5-es-cqrs-boilerplate/blob/master/doc/Workflow.md)
+[UI workflow](https://github.com/jeanmarie110/Event-Sourcing-and-CQRS/blob/master/doc/Workflow.md)
 
-[Xdebug configuration](https://github.com/jorge07/symfony-5-es-cqrs-boilerplate/blob/master/doc/GetStarted/Xdebug.md)
+[Xdebug configuration](https://github.com/jeanmarie110/Event-Sourcing-and-CQRS/blob/master/doc/GetStarted/Xdebug.md)
 
-[Kubernetes Deployment](https://github.com/jorge07/symfony-5-es-cqrs-boilerplate/blob/master/doc/Deployment.md)
+[Kubernetes Deployment](https://github.com/jeanmarie110/Event-Sourcing-and-CQRS/blob/master/doc/Deployment.md)
 
 ## Architecture
 
