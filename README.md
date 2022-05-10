@@ -50,7 +50,6 @@ A boilerplate for DDD, CQRS, Event Sourcing applications using Symfony as framew
 - [x] Sign in
 - [x] Logout
 
-![API Doc](https://i.imgur.com/DBZsPlE.png)
 
 ## Stack
 
